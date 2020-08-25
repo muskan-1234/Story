@@ -1,1 +1,1 @@
-This is chapter 2 by cmd.
+This is chapter 2 by cmd.Learn to merge branches.
